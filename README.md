@@ -1,19 +1,20 @@
 # Russian
 ## Как Сделать Мод?
 ---
-Нам понадобиться:
-
-1.Roblox Studio
-
-2.Пример мода
-
 План:
 
 1.Установка Roblox Studio.
 
 2.Настройка Мода.
 
-#Установка Roblox Studio
+Вам понадобиться:
+
+1.Roblox Studio
+
+2.Пример мода
+
+
+Установка Roblox Studio
 ---
 
 *1.* Переходим на сайт https://create.roblox.com/:
