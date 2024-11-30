@@ -29,4 +29,7 @@
 
 ![chrome_y6JKu2chmI](https://github.com/user-attachments/assets/60b58b9c-704d-4eac-b9fd-494935ffe6c5)
 
+*4.* После того как скачали нажимаем на **RobloxStudioInstaller.exe**
+
+![IPpwtE1Hmn](https://github.com/user-attachments/assets/2c0178a8-8269-4760-b086-1fc4f52fd376)
 
