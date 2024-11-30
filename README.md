@@ -26,5 +26,6 @@
 
 *3.* Нажимаем на **Download Studio**
 
-![chrome_r7m0qzc0oI](https://github.com/user-attachments/assets/aae24070-2087-412a-a78a-c8a38b43a8f4)
+![chrome_y6JKu2chmI](https://github.com/user-attachments/assets/60b58b9c-704d-4eac-b9fd-494935ffe6c5)
+
 
