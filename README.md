@@ -25,7 +25,7 @@
 
 ![chrome_r7m0qzc0oI](https://github.com/user-attachments/assets/1766b7cf-fb3a-4cb7-b952-77040c6d91e7)
 
-*3.* Нажимаем на **Download Studio**
+*3.* Нажимаем на **Download Studio** или на **Скачать студию**
 
 ![chrome_y6JKu2chmI](https://github.com/user-attachments/assets/60b58b9c-704d-4eac-b9fd-494935ffe6c5)
 
