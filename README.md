@@ -33,3 +33,11 @@
 
 ![IPpwtE1Hmn](https://github.com/user-attachments/assets/2c0178a8-8269-4760-b086-1fc4f52fd376)
 
+*5.* Ждём когда установиться **Roblox Studio**
+
+![RobloxStudioInstaller_itshvBbNJ9](https://github.com/user-attachments/assets/4dc0e16b-641f-47af-bc4d-b5f30637ac6d)
+
+*6.* Входим или Регистрируемся
+
+![RobloxStudioBeta_ZHf6vM4qF9](https://github.com/user-attachments/assets/fc356248-afa9-474f-bc08-e6403b08aea6)
+
