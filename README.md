@@ -10,3 +10,5 @@
 Переходим на сайт https://create.roblox.com/:
 
 ![Q3njMpHeYh](https://github.com/user-attachments/assets/978796f4-666c-4294-b05e-f2d727b4a9df)
+
+Нажимаем на **Start Creating**
