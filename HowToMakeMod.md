@@ -156,3 +156,24 @@ NOTE: You need to be good at scripting, so watch the guides on YouTube on how to
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![RobloxStudioBeta_cVNUF7L9Zd](https://github.com/user-attachments/assets/d6b597d1-307e-4d5a-8b12-9451151cafc2)
