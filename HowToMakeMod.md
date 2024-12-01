@@ -69,3 +69,7 @@
 *5.* Нажимаем на **Mod Template**
 
 ![RobloxStudioBeta_ZYz2KQq8zQ](https://github.com/user-attachments/assets/a80bda69-12a0-4cbe-b0b5-5d2c597f4cef)
+
+*6.* После установки шаблона кликаем два раза на него
+
+![RobloxStudioBeta_MX1buTCuXe](https://github.com/user-attachments/assets/04df8ab8-f68a-412e-96e8-52e13def54e9)
