@@ -43,6 +43,7 @@
 
 Для тех у кого нет Аккаунта:
 
-![chrome_6QHhTem8wl](https://github.com/user-attachments/assets/a8143d68-9777-4309-a18c-aa89f6b96da3)
+![chrome_n88wdldD5F](https://github.com/user-attachments/assets/cab65bab-bbd4-4a8b-9209-1bcf54926f11)
+
 
 ![chrome_0g7AQIUxuv](https://github.com/user-attachments/assets/a2e7cc95-041c-4bfd-85a9-a04dd75a8fda)
