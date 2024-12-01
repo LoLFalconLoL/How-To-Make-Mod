@@ -47,3 +47,13 @@
 
 
 ![chrome_0g7AQIUxuv](https://github.com/user-attachments/assets/a2e7cc95-041c-4bfd-85a9-a04dd75a8fda)
+
+2.Настройка **Мода**
+
+*1.* Переходим по ссылке https://create.roblox.com/store/asset/127238018476950/Mod-Template
+
+![chrome_GuKl23xMJF](https://github.com/user-attachments/assets/506acf9d-e17d-44ab-8822-6ef72bb38f56)
+
+*2.* нажиманем на **Get Model**
+
+![chrome_JTzNEkHOBZ](https://github.com/user-attachments/assets/38917717-b7d0-4392-bc54-0ba1292163e0)
