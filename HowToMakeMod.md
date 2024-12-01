@@ -54,6 +54,18 @@
 
 ![chrome_GuKl23xMJF](https://github.com/user-attachments/assets/506acf9d-e17d-44ab-8822-6ef72bb38f56)
 
-*2.* нажиманем на **Get Model**
+*2.* Нажиманем на **Get Model**
 
 ![chrome_JTzNEkHOBZ](https://github.com/user-attachments/assets/38917717-b7d0-4392-bc54-0ba1292163e0)
+
+*3.* Переходим в **Roblox Studio**
+
+![edV2EXrZHG](https://github.com/user-attachments/assets/ffbc1139-41f6-4684-9ea8-b2b36282af8b)
+
+*4.* Переходим на **Inventory**
+
+![RobloxStudioBeta_8U8AiO5e2V](https://github.com/user-attachments/assets/fa48fea9-a034-41eb-9300-7c02f7380587)
+
+*5.* Нажимаем на **Mod Template**
+
+![RobloxStudioBeta_ZYz2KQq8zQ](https://github.com/user-attachments/assets/a80bda69-12a0-4cbe-b0b5-5d2c597f4cef)
