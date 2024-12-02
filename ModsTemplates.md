@@ -2,11 +2,11 @@
 ```lua
 local mod = {}
 
-mod.Name = "Tools Mod"
+mod.Name = "Tools Mod" --To choose from.
 
-mod.Description = "Mod that adds tools."
+mod.Description = "Mod that adds tools." --To choose from.
 
-mod.ImageId = "rbxasset://textures/ui/GuiImagePlaceholder.png"
+mod.ImageId = "rbxasset://textures/ui/GuiImagePlaceholder.png" --To choose from.
 
 local ToolsTable = {}
 
