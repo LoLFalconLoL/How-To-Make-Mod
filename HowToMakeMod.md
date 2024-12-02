@@ -76,6 +76,21 @@ For those who don't have Account:
 
 NOTE: You need to be good at scripting, so watch the guides on YouTube on how to do this
 
+*8.* Right-click and select **Save To Roblox**.
+
+![RobloxStudioBeta_cVNUF7L9Zd](https://github.com/user-attachments/assets/d6b597d1-307e-4d5a-8b12-9451151cafc2)
+
+*9.* After that, do what is shown in the Screenshot.
+
+![RobloxStudioBeta_irxtEVRdZP](https://github.com/user-attachments/assets/8194e883-8a5f-470f-96b6-e722855a0706)
+
+*10.* Go to the website shown in the Screenshot.
+
+![RobloxStudioBeta_Xkr9L5W3Xz](https://github.com/user-attachments/assets/22fa28b0-e93d-429f-909a-c78b9cb3c32e)
+
+*11.* After the transition, scroll down and activate the checkbox shown in the Screenshot, and save the changes.
+
+![chrome_0ztmoFgVkv](https://github.com/user-attachments/assets/e6a3022b-ddce-4acd-a7e1-7ae71ec1d86e)
 
 # Russian
 ## Как Сделать Мод?
