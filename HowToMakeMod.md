@@ -36,8 +36,7 @@ You Will Need:
 
 *6.* Login or Register
 
-![RobloxStudioBeta_EBhrYBSnJn](https://github.com/user-attachments/assets/ac1ba6eb-9266-41a6-a29f-4c5877d73ae9)
-
+![RobloxStudioBeta_J670Vlk8wF](https://github.com/user-attachments/assets/0ebf1871-de49-42c1-940f-fa9378456a2a)
 
 For those who don't have Account:
 
