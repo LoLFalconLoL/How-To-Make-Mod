@@ -28,3 +28,5 @@ end
 return mod
 
 ```
+
+![RobloxStudioBeta_4IzQssauXe](https://github.com/user-attachments/assets/377541c5-963c-4f3e-a2a2-ecc49550d3d7)
