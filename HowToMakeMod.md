@@ -154,16 +154,21 @@ NOTE: You need to be good at scripting, so watch the guides on YouTube on how to
 
 *7.* После открытии скрипта вы можете внести всё что угодно!
 
-ПРИМЕЧАНИЕ: Нужно хорошо уметь скриптить так что посмотрите гайды на ютубе как это делать
+ПРИМЕЧАНИЕ: Нужно хорошо уметь скриптить так что посмотрите гайды на ютубе как это делать.
 
-*8.* Нажимаем на правую кнопку мыши, и выбираем **Save To Roblox**
+*8.* Нажимаем на правую кнопку мыши, и выбираем **Save To Roblox**.
 
 ![RobloxStudioBeta_cVNUF7L9Zd](https://github.com/user-attachments/assets/d6b597d1-307e-4d5a-8b12-9451151cafc2)
 
-*8.* После этого делаем что показано на Скриншоте
+*8.* После этого делаем что показано на Скриншоте.
 
 ![RobloxStudioBeta_irxtEVRdZP](https://github.com/user-attachments/assets/8194e883-8a5f-470f-96b6-e722855a0706)
 
-*9.* Переходим на сайт который показан на Скриншоте
+*9.* Переходим на сайт который показан на Скриншоте.
 
 ![RobloxStudioBeta_Xkr9L5W3Xz](https://github.com/user-attachments/assets/22fa28b0-e93d-429f-909a-c78b9cb3c32e)
+
+*10.* После перехода, листем вниз, и активируем галочку показанную на Скриншоте, и сохраняем настройки.
+
+![chrome_0ztmoFgVkv](https://github.com/user-attachments/assets/e6a3022b-ddce-4acd-a7e1-7ae71ec1d86e)
+
